@@ -1,0 +1,6 @@
+outs:
+- md5: f3ca00d3b05b8982597c8487c54ca487.dir
+  size: 202059
+  nfiles: 3
+  hash: md5
+  path: car-images
